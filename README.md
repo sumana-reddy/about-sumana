@@ -8,7 +8,7 @@
 
 ## About Repository
 
-This repository is about me and to explain the techniques and methods which I have learned to create the webpages. And also about the tools which I have used to do so.
+This repository is about me and to explain the techniques and methods which I have learned to create the webpages. And also about the tools which I have learned and used to do so.
 
 ## Recommended tools
 
