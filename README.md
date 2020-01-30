@@ -32,4 +32,3 @@ Sumana Reddy, Currently I'm pursuing Master's in Applied Computer Science at Nor
 
 
 ![image](https://images.websitebuilderexpert.com/wp-content/uploads/2018/01/How-to-Build-a-Website_Hero.jpg)
-
