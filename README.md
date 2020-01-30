@@ -12,7 +12,7 @@ This repository is about me and to explain the techniques and methods which I ha
 
 ## Recommended tools
 
-Here are some recommended tools for the users about what tools and languages are required to publish a repo with GitHub pages.
+Here are some recommended tools for the users about what tools and languages are required to publish a repo with GitHub pages
 
 1. Create a GitHub account[GitHub Account](https://github.com/)
 2. Basic writing and formatting syntax[syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
