@@ -30,5 +30,4 @@ Here are some recommended tools for the users about what tools and languages are
 
 Sumana Reddy, Currently I'm pursuing Master's in Applied Computer Science at Northwest Missouri State University, Maryville, MO
 
-
 ![image](https://images.websitebuilderexpert.com/wp-content/uploads/2018/01/How-to-Build-a-Website_Hero.jpg)
