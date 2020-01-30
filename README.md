@@ -29,5 +29,5 @@ Here are some recommended tools for the users about what tools and languages are
 ## Contributers
 
 Sumana Reddy, Currently I'm pursuing Master's in Applied Computer Science at Northwest Missouri State University, Maryville, MO
-- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTQFLyoOoRsu1a_g4w8gwzSnoV3P-pWhGvrGfnha6GHBeevmR&s)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTQFLyoOoRsu1a_g4w8gwzSnoV3P-pWhGvrGfnha6GHBeevmR&s)
 
