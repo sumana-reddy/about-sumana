@@ -1,0 +1,32 @@
+* {
+    padding : 2px;
+    margin : 2px;
+}
+img{
+    border-radius: 50%;
+}
+
+
+
+  
+  body {
+    background: #eed8d8;
+    color: rgb(56, 19, 19);
+    font-family: Lato, sans-serif;
+    line-height: 1.4;
+    font-size: 90%;
+    margin: 2rem;
+  }
+
+title {
+    color: light rgb(204, 130, 32);
+    border: 1px solid black;
+}
+p {
+    color: rgb(14, 5, 5);
+} 
+
+li {
+    color: rgb(202, 86, 125);
+    text-align: center;
+  }
