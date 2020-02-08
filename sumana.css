@@ -18,14 +18,14 @@ a:link, a:visited {
   }
 
 
-.container
+div.container
 {
     padding: 40px; 
     text-align: center; 
     background: #c2bbbe;
     color: white; 
 }
-.header 
+div.header 
 {
     padding: 50px; 
     text-align: center; 
@@ -47,7 +47,7 @@ a:link, a:visited {
     text-align: center; 
     color: rgb(66, 23, 3); 
   }
-    body{
+  body{
    
     color: rgb(29, 17, 17);
     font-family: Lato, sans-serif;
