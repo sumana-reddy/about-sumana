@@ -2,25 +2,49 @@
     padding : 2px;
     margin : 2px;
 }
-img{
+img
+{
     border-radius: 50%;
 }
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+  }
 
+}
+.container{
+    padding: 80px; 
+    text-align: center; 
+    background: #d46c9d;
+    color: white; 
 
-
-  
-  body {
-    background: #eed8d8;
-    color: rgb(56, 19, 19);
+}
+.header {
+    padding: 50px; 
+    text-align: center; 
+    
+    color: rgb(4, 70, 32); 
+  }
+  .header h1 {
+    font-size: 40px;
+  }
+    body{
+   
+    color: rgb(29, 17, 17);
     font-family: Lato, sans-serif;
     line-height: 1.4;
     font-size: 90%;
     margin: 2rem;
   }
 
-title {
+main 
+{
     color: light rgb(204, 130, 32);
-    border: 1px solid black;
+    border: 1px solid rgb(75, 66, 72);
 }
 p {
     color: rgb(14, 5, 5);
