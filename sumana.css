@@ -1,6 +1,7 @@
 * {
     padding : 2px;
     margin : 2px;
+    shape-margin: 10%;
 }
 
 img
@@ -32,7 +33,7 @@ div.header
     color: rgb(7, 139, 62); 
   }
   .header h2 {
-    font-size: 60px;
+    font-size: 30px;
     text-size-adjust: 100px;
   }
   
@@ -42,10 +43,18 @@ div.header
     text-align: center; 
     color: rgb(15, 6, 138); 
   }
+  div.headders h2 {
+    font-size: 30px;
+    text-size-adjust: 100px;
+  }
   div.trdheader {
     padding: 50px; 
     text-align: center; 
     color: rgb(66, 23, 3); 
+  }
+  div.trdheader h2 {
+    font-size: 30px;
+    text-size-adjust: 100px;
   }
   body{
    
@@ -75,3 +84,4 @@ li {
     color: rgb(202, 86, 125);
     text-align: center;
   }
+  

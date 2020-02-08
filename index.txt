@@ -5,3 +5,24 @@ I have completed my schooling in 2013 and have earned my intermediate degree in 
 The type of work which I would like to do is developer role, technology analyst, business analyst, system analyst, Associate, senior Software Engineer, Systems Architect.
 
 As I have mentioned in the above paragraphs there is nothing more interesting about me. And here is my viewable and clickable Linkedin profile [link](https://www.linkedin.com/in/sumana-reddy-58487219a/)
+
+
+<div class="wrapper">
+
+	<h1>Grade Calculator</h1>
+
+	<div class="directions">Input your grades separated by commas:</div>
+
+	<input id="yourgrades" type="text" />
+	<input id="submitbutton" type="button" value="Calculate" onClick="submit();"/>
+
+	<p>Your grades from high to low:</p>
+	<div id="grades"></div>
+
+	<p>Your average grade is:</p>
+	<div id="avg_grades"></div>
+
+	<p>Your final grade is:</p>
+	<div id="final_grade"></div>
+
+</div>
